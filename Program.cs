@@ -19,7 +19,7 @@ class Program
 {
     static void Main()
     {
-        Personaje heroe=new Personaje("Fulano", 1060);
+        Personaje heroe=new Personaje("Diego", 1060);
         heroe.Saludar();
     }
 }
